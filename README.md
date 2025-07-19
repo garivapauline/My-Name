@@ -1,4 +1,6 @@
-# je suis gariva Pauline élève ingénieur en art numérique 
+# i'm gariva Pauline
+
+### i'm a student in digital art engineering | web developper
 
 <img src="https://github-profile-trophy.vercel.app/?username=garivaPauline&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
 
