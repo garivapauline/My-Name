@@ -1,4 +1,5 @@
-# My-Name
+# je suis gariva Pauline élève ingénieur en art numérique 
+
 <img src="https://github-profile-trophy.vercel.app/?username=garivaPauline&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
 ### Github Stats 🔥
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=garivaPauline&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="garivaPauline" /></p>
